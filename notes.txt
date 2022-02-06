@@ -1,0 +1,16 @@
+# Parar rodar o projeto, vc precisar iniciar o frontend e backend;
+
+# Dependencias para rodar o projeto;
+yarn add json-server;
+
+# Configuração do backend
+- crie uma pasta db na raiz do projeto e crie o arquivo db.json
+
+e adicione a linha no package.json;
+- "backend": "json-server --watch db/db.json"
+
+# Inicializar o backend (json-server)
+- yarn backend
+
+# Inicializar o frontend
+- yarn serve

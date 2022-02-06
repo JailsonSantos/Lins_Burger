@@ -1,2 +1,19 @@
-# LinsBurger
-Uma aplicação web, onde o usuário faz o pedido e monta o seu hambúrguer de acordo com as opções do menu.
+# lins_burger
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
